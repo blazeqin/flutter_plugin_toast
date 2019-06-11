@@ -1,8 +1,8 @@
 name: flutter_toast2019
 description: A new Flutter plugin for android toast.
 version: 0.0.1
-author: blazeqin
-homepage:
+author: blazeqin<qs0102@163.com>
+homepage: https://github.com/blazeqin/flutter_plugin_toast.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
